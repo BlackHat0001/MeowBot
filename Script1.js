@@ -44,7 +44,7 @@ bot.on('ready' => {
     //console functions
     console.log('Bot Started')
 
-    bot.channels.get('REALLY NEED TO PUT THE CHANNEL ID IN HERE').send({
+    bot.channels.get('454947531781308420').send({
         embed: {
             title: ('Meow Wakeup'),
             description: (
@@ -62,4 +62,4 @@ bot.on('ready' => {
        
 });
 
-bot.login('REALLY NEED TO PUT BOT ID IN HERE!')
+bot.login('NTE3Mzc2MTE0MjAxNzIyODkx.DuBUhA.97rDxP4DyKNGayASv-Dt6rKsnlM')
